@@ -2,7 +2,7 @@
 
 **`Digital Journaling (Developer / Calisthenics)`**
 
-I am Varady aka KazperCoder. I have been working as a web developer since the mid 2023 and still counting. I always try to learn and keep improving my skill from day to day. As I am doing so, I think that it will be a good idea to keep or document my journey so that I can always come back to reflect from the starting point of my journey. I find it really interesting to understand how thing works and really appreciate the people who come up with it. I do not know everything. but I can always learning anything.
+I am Varady aka KazperCoder. I have been working as a web developer since the mid 2023 and still counting. I always try to learn and keep improving my skill from day to day. As I am doing so, I think that it will be a good idea to keep or document my journey so that I can always come back to reflect from the starting point of my journey. I find it really interesting to understand how thing works and really appreciate the people who come up with it. I do not know everything. but I can always learn anything.
 
 
 ### 🧰 Languages and Tools
